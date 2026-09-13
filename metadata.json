@@ -1,0 +1,6 @@
+{
+  "name": "TalentBridge",
+  "description": "AI-powered talent discovery and opportunity-matching platform connecting emerging talent with competitions, internships, auditions, scholarships, and mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
